@@ -139,5 +139,3 @@ GND	GND
 
 Pull-up:
 	• 4.7k между OUT и 5V
-
-<img width="1306" height="15404" alt="image" src="https://github.com/user-attachments/assets/518d281e-156c-4541-a8be-6222e9961726" />
