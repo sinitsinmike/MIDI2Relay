@@ -1,6 +1,13 @@
 # MIDI2Relay
 MIDI2Relay
 
+<img width="1536" height="1024" alt="midi2relay" src="https://github.com/user-attachments/assets/a8f42767-862f-42eb-ab29-0320b16244dc" />
+
+
+<img width="1280" height="960" alt="2026-05-11 13 58 36" src="https://github.com/user-attachments/assets/4a8c1b89-04d6-41be-9eb5-e02cef822bc4" />
+
+<img width="960" height="1280" alt="2026-05-11 13 58 39" src="https://github.com/user-attachments/assets/4d86542a-740f-4eac-877b-83b46933fec2" />
+
 Очень важно по питанию
 НЕ питать реле от Arduino Nano.
 Правильно:
